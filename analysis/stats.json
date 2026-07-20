@@ -1,0 +1,60 @@
+{
+  "n_users_daily": 35,
+  "n_users_sleep": 23,
+  "n_users_weight": 11,
+  "date_range": [
+    "2016-03-12",
+    "2016-04-12"
+  ],
+  "n_daily_records": 457,
+  "n_suspect_nowear_days": 53,
+  "n_sleep_dup_removed": 525,
+  "n_weight_missing_fat": 31,
+  "n_weight_records": 33,
+  "n_daily_no_sleep_match": 258,
+  "pct_daily_no_sleep_match": 56.5,
+  "avg_steps": 6547.0,
+  "median_steps": 5986.0,
+  "avg_calories": 2189.0,
+  "avg_sedentary_min": 995.0,
+  "avg_sedentary_hr": 16.6,
+  "avg_very_active_min": 16.6,
+  "avg_fairly_active_min": 13.1,
+  "avg_lightly_active_min": 170.1,
+  "pct_days_meeting_10k": 27.8,
+  "pct_users_avg_10k": 17.1,
+  "avg_sleep_min": 392.0,
+  "avg_sleep_hr": 6.53,
+  "avg_sleep_efficiency": 92.2,
+  "pct_nights_under_7h": 49.5,
+  "weekday_vs_weekend": {
+    "False": {
+      "steps": 6529.0,
+      "sedentary": 995.0,
+      "calories": 2173.0
+    },
+    "True": {
+      "steps": 6584.0,
+      "sedentary": 996.0,
+      "calories": 2224.0
+    }
+  },
+  "user_activity_segments": {
+    "1. Sedentary (<5k)": 14,
+    "2. Low Active (5-7.5k)": 6,
+    "3. Somewhat Active (7.5-10k)": 9,
+    "4. Active (10-12.5k)": 3,
+    "5. Highly Active (12.5k+)": 3
+  },
+  "corr_steps_calories": 0.58,
+  "corr_sedentary_sleep": -0.59,
+  "corr_veryactive_calories": 0.52,
+  "peak_step_hour": 19,
+  "peak_step_hour_value": 528.9,
+  "lowest_step_hour": 3,
+  "median_days_logged": 12,
+  "min_days_logged": 8,
+  "max_days_logged": 32,
+  "total_period_days": 32,
+  "avg_wear_pct": 40.8
+}
